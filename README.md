@@ -2,8 +2,16 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to learn and work on exciting projects. Here's a bit about me:
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FMartine7i&theme=dark&hide_border=true&show_icons=true)](https://github.com/FMartine7i/github-readme-stats)
+
 ## 💻 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,cs,cpp,ps,ts,css,vscode,flutter,tailwind,vue,mongodb,spring,nodejs,js,java,postman,html,git,angular,github,mysql&perline=11)](https://skillicons.dev)
+<table>
+  <tr border = "none">
+    <td>
+      <img align = "center" src="https://skillicons.dev/icons?i=idea,visualstudio,cs,cpp,ps,ts,css,vscode,flutter,tailwind,vue,mongodb,spring,nodejs,js,java,postman,html,git,angular,github,mysql&perline=11">
+    </td>
+  </tr>
+
 | Area | Tools |
 | - | - |
 | **Languages** | Java, JavaScript, C++, C# |
@@ -11,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 | **Frameworks & Libraries** | Node.js, Spring Boot, Vue.js, Angular |
 | **Databases** | MySQL, MongoDB |
 | **Tools & Platforms** | Git, Github, Postman, Swagger |
+
 
 ## 🚀 Projects
 Here are some of my favorite projects so far:
