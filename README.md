@@ -2,7 +2,17 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to learn and work on exciting projects. Here's a bit about me:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FMartine7i&theme=dark&hide_border=true&show_icons=true)](https://github.com/FMartine7i/github-readme-stats)
+<picture>
+  <source 
+    srcset = "https://github-readme-stats.vercel.app/api?username=FMartine7i&theme=tokyonight&hide_border=true&show_icons=true"
+    media = "(prefers-color-scheme: dark)"
+    />
+  <source 
+    srcset = "https://github-readme-stats.vercel.app/api?username=FMartine7i&hide_border=false&show_icons=true"
+    media = "(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+  <img src = "https://github-readme-stats.vercel.app/api?username=FMartine7i&show_icons=true">
+</picture>
 
 ## 💻 Technologies & Tools
 <table>
@@ -29,10 +39,8 @@ Here are some of my favorite projects so far:
 | [Moodify mobile](https://github.com/FMartine7i/flutter_app_2024) | Frontend for API moodify developed with flutter |
 | [Fusion](https://github.com/FMartine7i/Fusion-YouTube-clone) | Frontend project for a video platform developed with HTML, CSS and JS |
 
-## 📨 Contact Me
+# ![linkedin](https://skillicons.dev/icons?i=linkedin) Contact Me
 Feel free to reach out if you have any questions or just want to connect!
-
-- **Email:** [frmmartinetti98@gmail.com](mailto:frmmartinetti98@gmail.com)
 - **LinkedIn:** [Federico Martinetti](https://www.linkedin.com/in/your-profile)
 
 Thanks for visiting my profile!
