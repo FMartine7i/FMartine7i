@@ -3,11 +3,14 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to learn and work on exciting projects. Here's a bit about me:
 
 ## 💻 Technologies & Tools
-- **Languages:** Java, JavaScript, C++, C#
-- **Web Dev:** HTML5, CSS3, Vue.js, TailwindCss 
-- **Frameworks & Libraries:** Node.js, Spring Boot, Vue.js, Angular
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Github, Postman, Swagger
+[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,cs,cpp,ps,ts,css,vscode,flutter,tailwind,vue,mongodb,spring,nodejs,js,java,postman,html,git,angular,github,mysql&perline=11)](https://skillicons.dev)
+| Area | Tools |
+| - | - |
+| **Languages** | Java, JavaScript, C++, C# |
+| **Web Dev** | HTML5, CSS3, Vue.js, TailwindCss |
+| **Frameworks & Libraries** | Node.js, Spring Boot, Vue.js, Angular |
+| **Databases** | MySQL, MongoDB |
+| **Tools & Platforms** | Git, Github, Postman, Swagger |
 
 ## 🚀 Projects
 Here are some of my favorite projects so far:
