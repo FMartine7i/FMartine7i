@@ -47,7 +47,7 @@ Here are some of my favorite projects so far:
   </tr>
   <tr>
     <td>Status</td>
-    <td>Incomplete</td>
+    <td><img src="https://img.shields.io/badge/incomplete-50%25-8A2BE2"></td>
   </tr>
   <tr>
     <td>Technologies</td>
