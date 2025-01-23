@@ -15,12 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 </picture>
 
 ## 💻 Technologies & Tools
-<table>
-  <tr border = "none">
-    <td>
-      <img align = "center" src="https://skillicons.dev/icons?i=idea,visualstudio,cs,cpp,ps,ts,css,vscode,flutter,tailwind,vue,mongodb,spring,nodejs,js,java,postman,html,git,angular,github,mysql&perline=11">
-    </td>
-  </tr>
+
+<img align = "center" src="https://skillicons.dev/icons?i=idea,visualstudio,cs,cpp,ps,ts,css,vscode,flutter,tailwind,vue,mongodb,spring,nodejs,js,java,postman,html,git,angular,github,mysql&perline=11">
 
 | Area | Tools |
 | - | - |
@@ -33,6 +29,32 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 
 ## 🚀 Projects
 Here are some of my favorite projects so far:
+- **Fusion**
+<table>
+  <tr>
+    <td>
+      <img src = "https://i.imgur.com/uXmMsV3.png">
+    </td>
+    <td>
+      <img src = "https://i.imgur.com/1v9cUkl.png">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Description</td>
+    <td>Frontend project for a video platform developed with HTML, CSS and JS</td>
+  </tr>
+  <tr>
+    <td>Status</td>
+    <td>Incomplete</td>
+  </tr>
+  <tr>
+    <td>Technologies</td>
+    <td>HTML5, CSS3, JS</td>
+  </tr>
+</table>
+
 | Name | Description |
 | - | - |
 | [Moodify v2](https://github.com/FMartine7i/Moodify_v2) | My own API developed with Node.js, express and mongoDB |
