@@ -1,4 +1,4 @@
-# Hi there, I'm FMartine7i! 👋
+# Hi there, I'm Federico Martinetti! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to learn and work on exciting projects. Here's a bit about me:
 
