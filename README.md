@@ -32,12 +32,8 @@ Here are some of my favorite projects so far:
 - **Fusion**
 <table>
   <tr>
-    <td>
-      <img src = "https://i.imgur.com/uXmMsV3.png">
-    </td>
-    <td>
-      <img src = "https://i.imgur.com/1v9cUkl.png">
-    </td>
+    <td><img src = "https://i.imgur.com/uXmMsV3.png"></td>
+    <td><img src = "https://i.imgur.com/1v9cUkl.png"></td>
   </tr>
 </table>
 <table>
@@ -53,13 +49,41 @@ Here are some of my favorite projects so far:
     <td>Technologies</td>
     <td>HTML5, CSS3, JS</td>
   </tr>
+  <tr>
+    <td>Repo</td>
+    <td><a href="https://github.com/FMartine7i/Fusion-YouTube-clone">Fusion</a></td>
+  </tr>
 </table>
+<hr>
 
-| Name | Description |
-| - | - |
-| [Moodify v2](https://github.com/FMartine7i/Moodify_v2) | My own API developed with Node.js, express and mongoDB |
-| [Moodify mobile](https://github.com/FMartine7i/flutter_app_2024) | Frontend for API moodify developed with flutter |
-| [Fusion](https://github.com/FMartine7i/Fusion-YouTube-clone) | Frontend project for a video platform developed with HTML, CSS and JS |
+- **moodify frontend**
+
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/aCqQXMw.png"></td>
+    <td><img src="https://i.imgur.com/Nn8qvJw.png"></td>
+    <td><img src="https://i.imgur.com/SteYj68.png"></td>
+    <td><img src="https://i.imgur.com/UaScQUF.png"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Description</td>
+    <td>Frotend project for API moodify developed with flutter</td>
+  </tr>
+  <tr>
+    <td>Status</td>
+    <td><img src="https://img.shields.io/badge/incomplete-75%25-8A2BE2"></td>
+  </tr>
+  <tr>
+    <td>Technologies</td>
+    <td>Flutter, Dart</td>
+  </tr>
+  <tr>
+    <td>Repo</td>
+    <td><a href="https://github.com/FMartine7i/flutter_app_2024">moodify mobile GUI</a></td>
+  </tr>
+</table>
 
 # ![linkedin](https://skillicons.dev/icons?i=linkedin) Contact Me
 Feel free to reach out if you have any questions or just want to connect!
