@@ -69,7 +69,7 @@ Here are some of my favorite projects so far:
 <table>
   <tr>
     <td>Description</td>
-    <td>Frotend project for API moodify developed with flutter</td>
+    <td>Frotend project for app moodify developed with flutter</td>
   </tr>
   <tr>
     <td>Status</td>
@@ -82,6 +82,34 @@ Here are some of my favorite projects so far:
   <tr>
     <td>Repo</td>
     <td><a href="https://github.com/FMartine7i/moodify_client_flutter-v2">moodify mobile GUI</a></td>
+  </tr>
+</table>
+<hr>
+
+- **moodify API backend**
+
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/n762U9V.png"></td>
+    <td><img src="https://i.imgur.com/anyXEGH.png" width="1000px"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Description</td>
+    <td>Backend project for API moodify developed with Typescript</td>
+  </tr>
+  <tr>
+    <td>Status</td>
+    <td><img src="https://img.shields.io/badge/incomplete-95%25-8A2BE2"></td>
+  </tr>
+  <tr>
+    <td>Tech Stack</td>
+    <td>Typescript, HTML, Sass, Vite</td>
+  </tr>
+  <tr>
+    <td>Repo</td>
+    <td><a href="https://github.com/FMartine7i/Moodify_v2">moodify API v2</a></td>
   </tr>
 </table>
 
