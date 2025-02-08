@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 
 ## 💻 Technologies & Tools
 
-<img align = "center" src="https://skillicons.dev/icons?i=idea,visualstudio,cs,cpp,ps,ts,css,vscode,flutter,tailwind,vue,mongodb,spring,nodejs,js,java,postman,html,git,angular,github,mysql&perline=11">
+<img align = "center" src="https://skillicons.dev/icons?i=idea,visualstudio,cs,ps,ts,css,vscode,flutter,tailwind,vue,mongodb,spring,nodejs,js,java,postman,html,git,github,mysql&perline=10">
 
 | Area | Tools |
 | - | - |
@@ -60,10 +60,10 @@ Here are some of my favorite projects so far:
 
 <table>
   <tr>
-    <td><img src="https://i.imgur.com/aCqQXMw.png"></td>
-    <td><img src="https://i.imgur.com/Nn8qvJw.png"></td>
-    <td><img src="https://i.imgur.com/SteYj68.png"></td>
-    <td><img src="https://i.imgur.com/UaScQUF.png"></td>
+    <td><img src="https://i.imgur.com/1aLP7MN.png"></td>
+    <td><img src="https://i.imgur.com/j9WsSwT.png"></td>
+    <td><img src="https://i.imgur.com/aDe6ypX.png"></td>
+    <td><img src="https://i.imgur.com/rSbcm4j.png"></td>
   </tr>
 </table>
 <table>
@@ -73,15 +73,15 @@ Here are some of my favorite projects so far:
   </tr>
   <tr>
     <td>Status</td>
-    <td><img src="https://img.shields.io/badge/incomplete-75%25-8A2BE2"></td>
+    <td><img src="https://img.shields.io/badge/incomplete-90%25-8A2BE2"></td>
   </tr>
   <tr>
-    <td>Technologies</td>
-    <td>Flutter, Dart</td>
+    <td>Tech Stack</td>
+    <td>Flutter, Dart, Provider, HTTP</td>
   </tr>
   <tr>
     <td>Repo</td>
-    <td><a href="https://github.com/FMartine7i/flutter_app_2024">moodify mobile GUI</a></td>
+    <td><a href="https://github.com/FMartine7i/moodify_client_flutter-v2">moodify mobile GUI</a></td>
   </tr>
 </table>
 
